@@ -97,7 +97,7 @@ A análise permitiu identificar a somatória de faturamento das lojas e metricas
 
 - Satisfação dos clientes através das avaliações
 
-Com o auxilio de visualizações gráficas dessas métricas, a interpretação dos dados foram facilitadas, contribuindo com o processo decisório do projeto
+Com o auxilio de visualizações gráficas dessas métricas, a interpretação dos dados foram facilitadas, contribuindo com o processo decisório do projeto.
 
 
 ## 👨‍💻 Autor
