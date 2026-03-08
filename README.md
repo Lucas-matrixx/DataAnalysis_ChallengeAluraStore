@@ -42,7 +42,8 @@ Durante a análise foram criados diversos gráficos, incluindo:
 | Seaborn | Importar cores |
 | Jupyter Notebook | Ambiente de análise |
 
-# 🛠 Como Rodar o Projeto
+
+# ⚙️ Como Rodar o Projeto
 
 1. Clonar o repositório:
 
