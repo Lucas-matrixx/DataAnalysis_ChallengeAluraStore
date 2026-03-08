@@ -39,7 +39,7 @@ Durante a análise foram criados diversos gráficos, incluindo:
 | Python | Linguagem principal |
 | Pandas | Manipulação de dados |
 | Matplotlib | Visualização de dados |
-| Seaborn | Importar cores |
+| Seaborn | Visualização de dados |
 | Jupyter Notebook | Ambiente de análise |
 
 
