@@ -85,8 +85,9 @@ Com o ambiente ativo:
 ```python
 pip install -r requirements.txt
 ```
+---
 
-📌 Conclusão
+## 📌 Conclusão
 
 A análise permitiu identificar a somatória de faturamento das lojas e metricas importantes que apoiassem a tomada de decisão, destacando:
 
