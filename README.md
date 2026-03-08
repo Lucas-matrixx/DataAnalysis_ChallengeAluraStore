@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 
-# 🎯 Objetivo do Projeto
+## 🎯 Objetivo do Projeto
 
 Projeto de **análise exploratória de dados (EDA)** desenvolvido como parte do **Challenge Alura Store**, com o objetivo de extrair insights estratégicos sobre o desempenho de vendas das lojas Alura Store.
 
@@ -20,7 +20,7 @@ A análise busca compreender fatores que impactam o faturamento, as avaliações
 - Explorar padrões de vendas com **visualizações de dados**
 
 
-# 📈 Visualizações Criadas
+## 📈 Visualizações Criadas
 
 Durante a análise foram criados diversos gráficos, incluindo:
 
@@ -32,7 +32,7 @@ Durante a análise foram criados diversos gráficos, incluindo:
 - 📊 **Faturamento das Top 3 categorias por loja**
 
 
-# 🛠 Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas
 
 | Tecnologia | Uso |
 |------|------|
@@ -43,7 +43,7 @@ Durante a análise foram criados diversos gráficos, incluindo:
 | Jupyter Notebook | Ambiente de análise |
 
 
-# ⚙️ Como Rodar o Projeto
+## ⚙️ Como Rodar o Projeto
 
 1. Clonar o repositório:
 
@@ -99,7 +99,7 @@ A análise permitiu identificar a somatória de faturamento das lojas e metricas
 Com o auxilio de visualizações gráficas dessas métricas, a interpretação dos dados foram facilitadas, contribuindo com o processo decisório do projeto
 
 
-# 👨‍💻 Autor
+## 👨‍💻 Autor
 
 Lucas Rodrigues
 
