@@ -86,8 +86,21 @@ Com o ambiente ativo:
 pip install -r requirements.txt
 ```
 
-👨‍💻 Autor
+📌 Conclusão
+
+A análise permitiu identificar a somatória de faturamento das lojas e metricas importantes que apoiassem a tomada de decisão, destacando:
+
+- Categorias mais lucrativas
+
+- Total de Faturamento 
+
+- Satisfação dos clientes através das avaliações
+
+Com o auxilio de visualizações gráficas dessas métricas, a interpretação dos dados foram facilitadas, contribuindo com o processo decisório do projeto
+
+
+# 👨‍💻 Autor
 
 Lucas Rodrigues
 
-Projeto desenvolvido durante o Alura Challenge - Data Analysis.
+Projeto desenvolvido durante o Challenge Alura Store - Data Science.
