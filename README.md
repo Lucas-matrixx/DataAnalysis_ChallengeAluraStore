@@ -48,7 +48,7 @@ Durante a análise foram criados diversos gráficos, incluindo:
 1. Clonar o repositório:
 
 ```bash
-git clone https://github.com/Lucas-matrixx/DataAnalysis_ChallengeAluraStore/tree/main
+git clone https://github.com/Lucas-matrixx/DataAnalysis_ChallengeAluraStore
 ```
 ## Instruções de instalação 
 
