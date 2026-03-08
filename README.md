@@ -1,0 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Visualization-purple)
+![Status](https://img.shields.io/badge/Status-Completed-success)
