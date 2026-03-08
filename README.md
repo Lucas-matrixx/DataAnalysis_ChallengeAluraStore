@@ -48,8 +48,7 @@ Durante a análise foram criados diversos gráficos, incluindo:
 1. Clonar o repositório:
 
 ```bash
-git clone https://github.com/Lucas-matrixx/TelecomX-_Parte2_Prevendo_Churn.git
-
+git clone https://github.com/Lucas-matrixx/DataAnalysis_ChallengeAluraStore/tree/main
 ```
 ## Instruções de instalação 
 
