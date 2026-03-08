@@ -1,6 +1,6 @@
 # 📊 Análise de Dados - Alura Store Challenge
 
-### 🎯 Objetivo do Projeto
+## 🎯 Objetivo do Projeto
 
 Projeto de **análise exploratória de dados (EDA)** desenvolvido como parte do **Challenge Alura Store**, com o objetivo de extrair insights estratégicos sobre o desempenho de vendas das lojas.
 
